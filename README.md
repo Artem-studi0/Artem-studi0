@@ -73,4 +73,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [JavaScript](https://dev.to/artemstudi0/javascript-44od)
 <!-- BLOG-POST-LIST:END -->
 
+![snake animation](https://github.com/<seu Artem-studi0>/<seu Artem-studi0>/blob/output/github-contribution-grid-snake2.svg)
 
