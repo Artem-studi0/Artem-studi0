@@ -68,3 +68,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
+
+<!-- BLOG-POST-LIST:START -->
+- [JavaScript](https://dev.to/artemstudi0/javascript-44od)
+<!-- BLOG-POST-LIST:END -->
+
+
